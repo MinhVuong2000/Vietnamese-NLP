@@ -18,6 +18,14 @@ vi-wordnet.tar.xz
 │──pron.csv
 │── ...
 ```
+- [word_tokenize](https://github.com/jackNhat/word_tokenize/tree/master/data)
+```
+data/
+│──jvnsegmenter_data
+│──viettreebank
+│──vlsp2013
+│──vlsp2016
+```
 
 ## Named Entity Recognition
 - 10 loại thực thể [COVID-19 Named Entity Recognition for Vietnamese](https://github.com/VinAIResearch/PhoNER_COVID19)
