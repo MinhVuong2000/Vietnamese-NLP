@@ -1,9 +1,9 @@
 # Table of Contents
 1. [Corpus](#Corpus)
-2. [Vocabs - Tokens - Stopword -Dictionary](#Vocabs-Tokens-Stopword-Dictionary)
+2. [Vocabs - Tokens - Stopword -Dictionary](#Vocabs---Tokens---Stopword---Dictionary)
 3. [Part of Speech Tagging](#Part-of-Speech-Tagging)
 4. [Named Entity Recognition](#Named-Entity-Recognition)
-5. [Automatic Speech Recognition (ASR) & Text-To-Speech (TTS)](#Automatic-Speech-Recognition-(ASR)-&-Text-To-Speech-(TTS))
+5. [Automatic Speech Recognition (ASR) & Text-To-Speech (TTS)](#Automatic-Speech-Recognition-(ASR)--Text-To-Speech-(TTS))
 6. [Summarization](#Summarization)
 7. [Question Answering](#Question-Answering)
 8. [Spelling Correction](#Spelling-Correction)
@@ -18,7 +18,7 @@
 - [VNTQcorpus(big)](http://viet.jnlp.org/download-du-lieu-tu-vung-corpus): 1.750.000 sentences from vnthuquan.net.
 - [OSCAR](https://oscar-corpus.com/): 68GB of text data with 12.036.845.359 words
 
-## Vocabs - Tokens - Stopword -Dictionary
+## Vocabs - Tokens - Stopword - Dictionary
 - Danh sách các từ thông dụng tiếng Việt: [Vietnamese word list](https://www.informatik.uni-leipzig.de/~duc/software/misc/wordlist.html?trk=public_post_comment-text)
 - Stopword: [Vietnamese Stopwords](https://github.com/stopwords/vietnamese-stopwords)
 - Từ điển: [Vietnamese Dictionary](https://www.informatik.uni-leipzig.de/~duc/Dict/)
