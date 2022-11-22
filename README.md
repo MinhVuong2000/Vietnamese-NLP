@@ -1,2 +1,4 @@
 # Vietnamese-NLP
-Data &amp; Model &amp; Documents cho NLP tiếng Việt
+Synthsize Data Sources &amp; Models &amp; Documents for Vietnamese Natural Language Processing
+
+> Please pull request(s) if you have awesome sources and welcome to contribute
