@@ -1,9 +1,9 @@
 # Table of Contents
 1. [Corpus](#Corpus)
-2. [Vocabs - Tokens - Stopword -Dictionary](#Vocabs---Tokens---Stopword---Dictionary)
+2. [Vocabs - Tokens - Stopword - Dictionary](#Vocabs---Tokens---Stopword---Dictionary)
 3. [Part of Speech Tagging](#Part-of-Speech-Tagging)
 4. [Named Entity Recognition](#Named-Entity-Recognition)
-5. [Automatic Speech Recognition (ASR) & Text-To-Speech (TTS)](#Automatic-Speech-Recognition-(ASR)--Text-To-Speech-(TTS))
+5. [Automatic Speech Recognition & Text-To-Speech](#Automatic-Speech-Recognition-ASR--Text-To-Speech-TTS)
 6. [Summarization](#Summarization)
 7. [Question Answering](#Question-Answering)
 8. [Spelling Correction](#Spelling-Correction)
