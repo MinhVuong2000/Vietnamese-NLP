@@ -1,7 +1,19 @@
 # DATASETS
 
-## Vocabs - Tokens
+## Corpus
+- [VNTC](https://github.com/duyvuleo/VNTC)
+- [Binhvq News Corpus](https://github.com/binhvq/news-corpus)
+- [Common Crawl](https://commoncrawl.org/): web crawl data.
+- [WikiDumps](https://dumps.wikimedia.org/): Download via scripts from [viwik18](https://github.com/NTT123/viwik18), [viwik19](https://github.com/NTT123/viwik19)
+- [VNESEcorpus](http://viet.jnlp.org/download-du-lieu-tu-vung-corpus): 650.000 sentences from vietnamnet.vn, dantri.com.vn, nhandan.com.vn.
+- [VNTQcorpus(samll)](http://viet.jnlp.org/download-du-lieu-tu-vung-corpus): 300.000 sentences from vnthuquan.net.
+- [VNTQcorpus(big)](http://viet.jnlp.org/download-du-lieu-tu-vung-corpus): 1.750.000 sentences from vnthuquan.net.
+- [OSCAR](https://oscar-corpus.com/): 68GB of text data with 12.036.845.359 words
+
+## Vocabs - Tokens - Stopword -Dictionary
 - Danh sách các từ thông dụng tiếng Việt: [Vietnamese word list](https://www.informatik.uni-leipzig.de/~duc/software/misc/wordlist.html?trk=public_post_comment-text)
+- Stopword: [Vietnamese Stopwords](https://github.com/stopwords/vietnamese-stopwords)
+- Từ điển: [Vietnamese Dictionary](https://www.informatik.uni-leipzig.de/~duc/Dict/)
 
 ## Part of Speech Tagging
 - Phân nhóm các từ loại khác nhau theo chủ đề: [vietnamese-wordnet](https://github.com/zeloru/vietnamese-wordnet) 
@@ -30,6 +42,7 @@ data/
 ## Named Entity Recognition
 - 10 loại thực thể [COVID-19 Named Entity Recognition for Vietnamese](https://github.com/VinAIResearch/PhoNER_COVID19)
 
+
 ## Automatic Speech Recognition (ASR) & Text-To-Speech (TTS)
 Name |	Source |	Hours
 --- | --- | ---
@@ -42,6 +55,7 @@ Vivos | https://zenodo.org/record/7068130 | 15h
 Common Voice | https://commonvoice.mozilla.org/en/datasets | 17h
 FPT Open Speech Dataset | https://data.mendeley.com/datasets/k9sxg2twv4/4 | 30h
 
+
 ## Summarization
 Name |	Source
 --- | ---
@@ -52,7 +66,19 @@ XLsum | https://github.com/csebuetnlp/xl-sum
 
 You can also translate English Dataset to Vietnamese to use through googletrans library & huggingface (python)
 
-## Question Answering
 
+## Question Answering
+Name |	Source
+--- | ---
+MultiLingual Question Answering (vietnamese) | https://github.com/facebookresearch/MLQA
+Squad (vietnamese) | https://github.com/deepmind/xquad/blob/master/xquad.vi.json
+UIT-ViQuAD | https://aclanthology.org/2020.coling-main.233/
+mailong25 | https://github.com/mailong25/bert-vietnamese-question-answering/tree/master/dataset
+QA_viuit | https://github.com/vietnguyen012/QA_viuit (training, test & trial)
 
 ## Spelling Correction
+
+Name |	Source
+--- | ---
+Viwiki-spelling | https://github.com/heraclex12/Viwiki-spelling
+VSEC | https://github.com/VSEC2021/VSEC/tree/main/Dataset
