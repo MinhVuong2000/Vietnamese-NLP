@@ -11,7 +11,11 @@
 - 
 
 ## Named Entity Recognition
-- ViT5
+1. [ViT5](https://github.com/vietai/ViT5) with approach: Text-to-Text
+2. [PhoBert using for Token Classification](https://github.com/datnnt1997/VPhoBertTagger) and using 
+- Softmax
+- CRF
+- LSTM+CRF
 
 ## Automatic Speech Recognition (ASR) & Text-To-Speech (TTS)
 1. [Wav2Vec2-XLS-R](https://huggingface.co/facebook/wav2vec2-xls-r-300m) with 300M parameters: multilingual pretrained model
@@ -23,6 +27,7 @@
 1. [ViT5](https://github.com/vietai/ViT5) including pretrained huggingface
 - ViT5-Base-1024 (1M)
 - ViT5-Large-1024 (1.5M)
+
 
 ## Question Answering
 
